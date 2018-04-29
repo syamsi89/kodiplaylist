@@ -10,8 +10,7 @@ https://cdn-livetv1.metube.id/hls/globaltv.m3u8
 
 https://cdn-livetv1.metube.id/hls/rcti.m3u8
 
-#
-EXTINF:-1 tvg-logo="http://devanyahya.web.id/tvg-logo/mnctv.png",MNC TV
+#EXTINF:-1 tvg-logo="http://devanyahya.web.id/tvg-logo/mnctv.png",MNC TV
 
 https://cdn-livetv1.metube.id/hls/mnctv.m3u8
 
